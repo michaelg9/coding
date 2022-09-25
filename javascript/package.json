@@ -1,0 +1,24 @@
+{
+  "name": "coding-practice",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelg9/coding.git"
+  },
+  "keywords": [
+    "coding",
+    "algorithms",
+    "data structures"
+  ],
+  "author": "Michael Michaelides",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michaelg9/coding/issues"
+  },
+  "homepage": "https://github.com/michaelg9/coding#readme"
+}
